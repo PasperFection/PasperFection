@@ -2,6 +2,10 @@
 
 [![GitHub Profile 3D Contribution](https://github.com/PasperFection/PasperFection/blob/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/PasperFection/PasperFection)
 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/PasperFection/PasperFection/output/github-contribution-grid-snake.svg)
+
+[![GitHub Profile 3D Contribution](https://github.com/PasperFection/PasperFection/blob/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/PasperFection/PasperFection)
+
 <div align="center">
   
 # 🚀 Welcome to My Digital Playground! 
