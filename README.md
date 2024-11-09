@@ -17,7 +17,6 @@ Ervaren full-stack developer met een scherp oog voor business value en meer dan 
 
 ## 🎯 Kerncompetenties
 
----
 ```mermaid
 classDiagram
     class TechStack {
