@@ -13,7 +13,7 @@ mindmap
             HTML5/CSS3
             JavaScript
                 TypeScript
-                React (Native)
+                React
                 Vue
             UI/UX Design
                 Figma
@@ -68,17 +68,19 @@ mindmap
 
 ## 🚀 Projecten & Prestaties
 
-### Fullstax Enterprise Web Platform
+### 💱 Fullstax DEFI Web Platform
+**Crypto Trading Platform**: Real-time prijsupdates, geautomatiseerde tradingstrategieën, wallet-integratie.
+
 - Ontwikkeling van schaalbare microservices.
 - 40% prestatieverbetering.
 - CI/CD pipeline met 99.9% uptime.
 - Leiding over een team van 5 developers.
 
-### DirectLinx Authentication System
+### 🔐 DirectLinx Authentication System
+**DirectLinx Auth Platform**: Multi-factor authenticatie, OAuth2, biometrische verificatie.
+
 - Geavanceerd authenticatie systeem met biometrie en integraties.
 - 30% reductie in login-gerelateerde support tickets.
 
 ---
 
-- **🔐 DLAuth Platform**: Multi-factor authenticatie, OAuth2, biometrische verificatie.
-- **💱 Crypto Trading Platform**: Real-time prijsupdates, geautomatiseerde tradingstrategieën, wallet-integratie.
