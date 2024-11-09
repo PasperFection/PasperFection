@@ -17,77 +17,6 @@ Ervaren full-stack developer met een scherp oog voor business value en meer dan 
 
 ## 🎯 Kerncompetenties
 
-```mermaid
-mindmap
-    root((**Tech Stack**))
-        **Frontend**
-            HTML5/CSS3
-            JavaScript
-            TypeScript
-                React
-                Vue.js
-            Redux
-            Tailwind CSS
-            Webpack
-            Vite
-        **UI/UX Design**
-                Figma
-                Adobe XD
-                Adobe Illustrator
-                Adobe Photoshop
-                Adobe Character Animator
-                Adobe Premier Pro
-                Adobe Audition
-        **Backend**
-            Bash
-            PHP
-                Laravel
-                Symfony
-            Python
-                Django
-                FastAPI
-            Node.js
-                Express
-                NestJS
-        **Database / ORM**
-            MariaDB
-            MongoDB
-            Redis
-            PostgreSQL
-            Prisma
-            Cloud Services (Supabase / Firebase)        
-        **Development / DevOps**
-            Cursor
-            GitKraken
-            Pycharm
-            Webstorm
-            PHP Storm
-        **Testing**
-            Jest
-            PHPUnit
-            TeamCity
-
-        **Cloud Services**
-            AWS
-            Docker
-            Kubernetes
-            New Relic
-            Docker
-            GitHub Actions
-            ELK Stack
-```
-
----
-## 💼 Werkervaring
-
-**Full-Stack Developer** | PasperFection (2016-heden)
-- Teamleider van 3 developers
-- Implementatie van microservices architectuur
-- 40% prestatieverbetering
-
-**Junior Full-Stack Developer** | PasperFection (2013-2021)
-- Backend modernisatie, API-ontwikkeling, performance en security optimalisatie
-
 ---
 ```mermaid
 classDiagram
@@ -262,6 +191,19 @@ classDiagram
     style DevelopmentEnvironment fill:#ffd700,stroke:#ffc72c,stroke-width:2px,color:#000,stroke-dasharray: 5 5
     style DevOpsTesting fill:#ff69b4,stroke:#ff1493,stroke-width:2px,color:#000,stroke-dasharray: 5 5
 ```
+
+---
+## 💼 Werkervaring
+
+**Full-Stack Developer** | PasperFection (2016-heden)
+- Teamleider van 3 developers
+- Implementatie van microservices architectuur
+- 40% prestatieverbetering
+
+**Junior Full-Stack Developer** | PasperFection (2013-2021)
+- Backend modernisatie, API-ontwikkeling, performance en security optimalisatie
+
+
 ## 🚀 Projecten & Prestaties
 
 ### 💱 Fullstax DEFI Web Platform
