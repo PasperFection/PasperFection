@@ -2,44 +2,28 @@ name: GitHub 3D Profile Generator
 
 on:
   schedule:
-    - cron: "0 */24 * * *" # runs every 24 hours
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-
+    permissions: 
+      contents: write
+    
     steps:
-      - uses: actions/checkout@v2
-      
+      - uses: actions/checkout@v3
+
       - name: Generate 3D Profile
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: PasperFection
-          # these options can be changed to customize the look
-          SETTING_JSON: |
-            {
-              "type": "normal",
-              "colors": {
-                "h1": "#ff3939",
-                "h2": "#ff7839",
-                "h3": "#ffb739",
-                "h4": "#fff539",
-                "h5": "#73ff39",
-                "s1": "#39ff83",
-                "s2": "#39ffcc",
-                "s3": "#39f8ff",
-                "s4": "#397fff",
-                "s5": "#3939ff"
-              }
-            }
+          USERNAME: ${{ github.repository_owner }}
 
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "Generated 3D Profile"
-          git push
+          git add profile-3d-contrib/
+          git commit -m "Generated 3D Profile" || echo "No changes to commit"
+          git push origin main || echo "No changes to push"
