@@ -3,19 +3,15 @@
 [![GitHub Profile 3D Contribution](https://github.com/PasperFection/PasperFection/blob/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/PasperFection/PasperFection)
 
 <div align="center">
-  
-# 🚀 Welcome to My Digital Playground! 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pasperfection)
 [![Threads](https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@pasperfection)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://pasperfection.com)
 
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻 About PasperFection
 
-Hey there! I'm a passionate developer who loves turning complex problems into elegant solutions. Whether it's crafting clean code or experimenting with new technologies, I'm always up for a challenge!
+I'm a passionate developer who loves turning complex problems into elegant solutions. Whether it's crafting clean code or experimenting with new technologies, I'm always up for a challenge!
 
 ## 🛠️ Tech Stack
 
@@ -40,7 +36,8 @@ Hey there! I'm a passionate developer who loves turning complex problems into el
 mindmap
   root((Tools))
     Development
-      VS Code
+      Cursor
+      PHPStorm
       Git
       Docker
     Testing
@@ -49,9 +46,11 @@ mindmap
     Deployment
       CI/CD
       AWS
+      Vercel
     Design
       Figma
       Adobe XD
+      Adobe PS
 ```
 
 ## 📊 GitHub Stats
@@ -69,18 +68,18 @@ mindmap
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/yourusername/project1">
+      <a href="https://github.com/PasperFection/Fullstax">
         <img src="https://img.shields.io/badge/Project%201-Check%20it%20out!-brightgreen?style=for-the-badge" alt="Project 1"/>
       </a>
       <br />
-      <span>Short description of your awesome project</span>
+      <span>The Solana-based token platform</span>
     </td>
     <td align="center">
-      <a href="https://github.com/yourusername/project2">
+      <a href="https://github.com/PasperFection/DirectLinx">
         <img src="https://img.shields.io/badge/Project%202-Check%20it%20out!-orange?style=for-the-badge" alt="Project 2"/>
       </a>
       <br />
-      <span>Another cool project you're proud of</span>
+      <span>A Feature rich one-step authentication system</span>
     </td>
   </tr>
 </table>
