@@ -27,21 +27,22 @@ mindmap
       Ubuntu Server
 
     Design
+      Adobe Audition
       Adobe Character Animator
       Adobe Photoshop
       Adobe Illustrator
+      Adobe Premiere
       Adobe XD
       Figma
 
     Languages
-       HTML
-       CSS
-       Javascript
-       PHP
-       Python
-       Bash
-       Typescript
-
+      HTML
+      CSS
+      Javascript
+      PHP
+      Python
+      Bash
+      Typescript
 ```
 
 ### Currently Learning
