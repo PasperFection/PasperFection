@@ -1,19 +1,15 @@
-```ascii
- ____                           ____           ____           _   _             
-|  _ \ __ _ ___ _ __   ___ _ _|  __/___  ___ | ___|_ _  ___| |_(_) ___  _ __  
-| |_) / _` / __| '_ \ / _ \ '__| |_ / _ \/ __||___ \ '_\/ __| __| |/ _ \| '_ \ 
-|  __/ (_| \__ \ |_) |  __/ |  |  _|  __/ (__ ___) | | | (__| |_| | (_) | | | |
-|_|   \__,_|___/ .__/ \___|_|  |_|  \___|\___\____/|_|  \___|\__|_|\___/|_| |_|
-               |_|                                                              
-```
+![GitHub Contribution Snake](https://raw.githubusercontent.com/PasperFection/PasperFection/output/github-contribution-grid-snake.svg)
+
+[![GitHub Profile 3D Contribution](https://github.com/PasperFection/PasperFection/blob/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/PasperFection/PasperFection)
 
 <div align="center">
   
 # 🚀 Welcome to My Digital Playground! 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pasperfection)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pasperfection)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://pasperfection.com)
+[![Threads](https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@pasperfection)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://yourportfolio.com)
 
 </div>
 
@@ -73,20 +69,18 @@ mindmap
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/PasperFection/DirectLinx">
+      <a href="https://github.com/yourusername/project1">
         <img src="https://img.shields.io/badge/Project%201-Check%20it%20out!-brightgreen?style=for-the-badge" alt="Project 1"/>
       </a>
       <br />
-      <span>A feature-rich one-step-login system.
-
-</span>
+      <span>Short description of your awesome project</span>
     </td>
     <td align="center">
-      <a href="https://github.com/PasperFection/Fullstax">
+      <a href="https://github.com/yourusername/project2">
         <img src="https://img.shields.io/badge/Project%202-Check%20it%20out!-orange?style=for-the-badge" alt="Project 2"/>
       </a>
       <br />
-      <span>The Solana-based token platform for creating and managing tokens.</span>
+      <span>Another cool project you're proud of</span>
     </td>
   </tr>
 </table>
@@ -105,7 +99,7 @@ Feel free to reach out if you want to:
 - 💬 Discuss technology trends
 - 🎯 Share interesting development challenges
 
-You can find me on Threads [@pasperfection](https://twitter.com/pasperfection) or drop me a message here on GitHub!
+You can find me on Twitter [@pasperfection](https://twitter.com/pasperfection) or drop me a message here on GitHub!
 
 ---
 <div align="center">
