@@ -31,37 +31,43 @@ I'm a passionate developer who loves turning complex problems into elegant solut
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 </p>
 
+## 💡 What I'm Up To
+
+- 🔭 Working on: Building awesome web applications
+- 📚 Learning: Advanced TypeScript patterns and C# development
+- 👯 Looking to collaborate on: Innovative open-source projects
+- 🤔 Exploring: Cloud architecture and serverless computing
+
 ### Tools & Environments
 ```mermaid
 mindmap
   root((Tools))
     Development
       Cursor
-      PHPStorm
-      Git
       Docker
+      PHP Storm
+      Pycharm
+      Git
+
     Testing
       Jest
       PHPUnit
+      TeamCity
+
     Deployment
       CI/CD
       AWS
       Vercel
-    Design
-      Figma
+      Ubuntu Server
+
+      Design
+      Adobe Character Animator
+      Adobe Photoshop
+      Adobe Illustrator
       Adobe XD
-      Adobe PS
+      Figma
+
 ```
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PasperFection&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasperFection&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 ## 🌟 Featured Projects
 
@@ -69,27 +75,20 @@ mindmap
   <tr>
     <td align="center">
       <a href="https://github.com/PasperFection/Fullstax">
-        <img src="https://img.shields.io/badge/Project%201-Check%20it%20out!-brightgreen?style=for-the-badge" alt="Project 1"/>
+        <img src="https://img.shields.io/badge/Project%201-Check%20it%20out!-brightgreen?style=for-the-badge" alt="Fullstax"/>
       </a>
       <br />
       <span>The Solana-based token platform</span>
     </td>
     <td align="center">
       <a href="https://github.com/PasperFection/DirectLinx">
-        <img src="https://img.shields.io/badge/Project%202-Check%20it%20out!-orange?style=for-the-badge" alt="Project 2"/>
+        <img src="https://img.shields.io/badge/Project%202-Check%20it%20out!-orange?style=for-the-badge" alt="DirectLinx"/>
       </a>
       <br />
       <span>A Feature rich one-step authentication system</span>
     </td>
   </tr>
 </table>
-
-## 💡 What I'm Up To
-
-- 🔭 Working on: Building awesome web applications
-- 📚 Learning: Advanced TypeScript patterns and C# development
-- 👯 Looking to collaborate on: Innovative open-source projects
-- 🤔 Exploring: Cloud architecture and serverless computing
 
 ## 📫 Let's Connect!
 
@@ -98,11 +97,6 @@ Feel free to reach out if you want to:
 - 💬 Discuss technology trends
 - 🎯 Share interesting development challenges
 
-You can find me on Twitter [@pasperfection](https://twitter.com/pasperfection) or drop me a message here on GitHub!
-
----
-<div align="center">
   
-### "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-</div>
+---
+You can find me on Twitter [@pasperfection](https://twitter.com/pasperfection) or drop me a message here on GitHub!
