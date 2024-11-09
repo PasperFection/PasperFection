@@ -1,29 +1,48 @@
-![GitHub Contribution Snake](https://raw.githubusercontent.com/PasperFection/PasperFection/output/github-contribution-grid-snake.svg)
-
-[![GitHub Profile 3D Contribution](https://github.com/PasperFection/PasperFection/blob/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/PasperFection/PasperFection)
-
-<div align="center">
-
-[![Threads](https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@pasperfection)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://pasperfection.com)
-
-</div>
-
 ## 👨‍💻 About PasperFection
 
 I'm a passionate developer who loves turning complex problems into elegant solutions. Whether it's crafting clean code or experimenting with new technologies, I'm always up for a challenge!
 
-## 🛠️ Tech Stack
+### Tools & Environments
+```mermaid
+mindmap
+  root((Tools))
+    Development
+      Cursor
+      Docker
+      PHPStorm
+      Pycharm
+      Webstorm
+      Git
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-</p>
+    Testing
+      Jest
+      PHPUnit
+      TeamCity
+      Postman
+
+    Deployment
+      CI/CD
+      AWS
+      Vercel
+      Ubuntu Server
+
+    Design
+      Adobe Character Animator
+      Adobe Photoshop
+      Adobe Illustrator
+      Adobe XD
+      Figma
+
+    Languages
+       HTML
+       CSS
+       Javascript
+       PHP
+       Python
+       Bash
+       Typescript
+
+```
 
 ### Currently Learning
 <p>
@@ -37,38 +56,6 @@ I'm a passionate developer who loves turning complex problems into elegant solut
 - 📚 Learning: Advanced TypeScript patterns and C# development
 - 👯 Looking to collaborate on: Innovative open-source projects
 - 🤔 Exploring: Cloud architecture and serverless computing
-
-### Tools & Environments
-```mermaid
-mindmap
-  root((Tools))
-    Development
-      Cursor
-      Docker
-      PHP Storm
-      Pycharm
-      Git
-
-    Testing
-      Jest
-      PHPUnit
-      TeamCity
-
-    Deployment
-      CI/CD
-      AWS
-      Vercel
-      Ubuntu Server
-
-      Design
-      Adobe Character Animator
-      Adobe Photoshop
-      Adobe Illustrator
-      Adobe XD
-      Figma
-
-```
-
 ## 🌟 Featured Projects
 
 <table>
@@ -97,6 +84,13 @@ Feel free to reach out if you want to:
 - 💬 Discuss technology trends
 - 🎯 Share interesting development challenges
 
-  
----
-You can find me on Twitter [@pasperfection](https://twitter.com/pasperfection) or drop me a message here on GitHub!
+[![GitHub Profile 3D Contribution](https://github.com/PasperFection/PasperFection/blob/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/PasperFection/PasperFection)
+
+<div align="center">
+
+[![Threads](https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@pasperfection)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://pasperfection.com)
+
+</div>
+
+You can find me on Threads [@pasperfection](https://threads.com/pasperfection) or drop me a message here on GitHub!
