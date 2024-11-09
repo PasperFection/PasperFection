@@ -1,39 +1,9 @@
 # 💻 PasperFection | Full-Stack Developer
 
 Ervaren full-stack developer met een scherp oog voor business value en meer dan 5 jaar ervaring in het bouwen van enterprise-grade applicaties. Ik lever oplossingen die zowel technisch als strategisch sterk zijn.
-
----
-
-## 🎯 Kerncompetenties
-
-```mermaid
-mindmap
-    root((Tech Stack))
-        Frontend
-            HTML5/CSS3
-            JavaScript
-                TypeScript
-                React
-                Vue
-            UI/UX Design
-                Figma
-                Adobe XD
-                Adobe Illustrator
-                Adobe Photoshop
-                Adobe Character Animator
-        Backend
-            PHP
-                Laravel
-                Symfony
-            Python
-                Django
-                FastAPI
-            Node.js
-        Development & DevOps
-            Git
-            Testing (Jest, PHPUnit)
-            Cloud Services (AWS, Docker)
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PasperFection/PasperFection/403e79de3b419441574cff5baa0291dd20cb8231/profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" width="100%">
+</div>
 
 ---
 
@@ -45,19 +15,73 @@ mindmap
 
 ---
 
-## 🛠 Tech Stack Details
+## 🎯 Kerncompetenties
 
-**Frontend**: HTML5, CSS3, JavaScript/TypeScript, React, Vue.js, Redux, Tailwind CSS, Webpack, Vite  
-**Backend**: PHP (Laravel, Symfony), Python (Django, FastAPI), Node.js (Express, NestJS)  
-**Databases**: MySQL, PostgreSQL, MongoDB, Redis  
-**DevOps**: AWS, Docker, Kubernetes, GitHub Actions, New Relic, ELK Stack  
+```mermaid
+mindmap
+    root((**Tech Stack**))
+        **Frontend**
+            HTML5/CSS3
+            JavaScript
+            TypeScript
+                React
+                Vue.js
+            Redux
+            Tailwind CSS
+            Webpack
+            Vite
+        **UI/UX Design**
+                Figma
+                Adobe XD
+                Adobe Illustrator
+                Adobe Photoshop
+                Adobe Character Animator
+                Adobe Premier Pro
+                Adobe Audition
+        **Backend**
+            Bash
+            PHP
+                Laravel
+                Symfony
+            Python
+                Django
+                FastAPI
+            Node.js
+                Express
+                NestJS
+        **Database / ORM**
+            MariaDB
+            MongoDB
+            Redis
+            PostgreSQL
+            Prisma
+            Cloud Services (Supabase / Firebase)        
+        **Development / DevOps**
+            Cursor
+            GitKraken
+            Pycharm
+            Webstorm
+            PHP Storm
+        **Testing**
+            Jest
+            PHPUnit
+            TeamCity
+
+        **Cloud Services**
+            AWS
+            Docker
+            Kubernetes
+            New Relic
+            Docker
+            GitHub Actions
+            ELK Stack
+```
 
 ---
-
 ## 💼 Werkervaring
 
 **Full-Stack Developer** | PasperFection (2016-heden)
-- Teamleider van 5 developers
+- Teamleider van 3 developers
 - Implementatie van microservices architectuur
 - 40% prestatieverbetering
 
