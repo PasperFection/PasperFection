@@ -1,9 +1,9 @@
 # 💻 PasperFection | Full-Stack Developer
 
 Ervaren full-stack developer met een scherp oog voor business value en meer dan 5 jaar ervaring in het bouwen van enterprise-grade applicaties. Ik lever oplossingen die zowel technisch als strategisch sterk zijn.
-<div align="center">
+<!--div align="center">
   <img src="https://raw.githubusercontent.com/PasperFection/PasperFection/403e79de3b419441574cff5baa0291dd20cb8231/profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" width="100%">
-</div>
+</div-->
 
 ---
 
