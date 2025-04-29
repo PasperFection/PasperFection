@@ -192,16 +192,6 @@ classDiagram
 ```
 
 ---
-## 💼 Werkervaring
-
-**Full-Stack Developer** | PasperFection (2016-heden)
-- Teamleider van 3 developers
-- Implementatie van microservices architectuur
-- 40% prestatieverbetering
-
-**Junior Full-Stack Developer** | PasperFection (2013-2021)
-- Backend modernisatie, API-ontwikkeling, performance en security optimalisatie
-
 
 ## 🚀 Projecten & Prestaties
 
