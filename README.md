@@ -1,4 +1,4 @@
-# Hulp Nodig bij Digitale Groei? | Full-Stack Developer voor Jouw Project
+# Hulp Nodig bij Digitale Groei?
 
 Zoek je een ervaren full-stack developer die verder kijkt dan code alleen?  
 Met ruim 5 jaar ervaring in high-impact webapplicaties, automatisering en maatwerkoplossingen help ik bedrijven en ondernemers om hun digitale ambities te realiseren.
