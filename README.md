@@ -3,8 +3,6 @@
 Zoek je een ervaren full-stack developer die verder kijkt dan code alleen?  
 Met ruim 5 jaar ervaring in high-impact webapplicaties, automatisering en maatwerkoplossingen help ik bedrijven en ondernemers om hun digitale ambities te realiseren.
 
-**Nodig mij uit voor je project, brainstorm of als technische sparringpartner. Samen maken we jouw online business slimmer, sneller en schaalbaarder.**
-
 ---
 
 **Regulier uurtarief: €95,- excl. btw**  
@@ -361,6 +359,9 @@ Reiskostencalculator.
 ![Voortgang: 80%](https://img.shields.io/badge/Voortgang-80%25-green)
 
 ---
+
+**Nodig mij uit voor je project, brainstorm of als technische sparringpartner. Samen maken we jouw online business slimmer, sneller en schaalbaarder.**
+
 
 **Benieuwd wat ik voor jouw bedrijf kan betekenen?  
 Plan vrijblijvend een (online) kennismaking. Contact kan op verzoek, uitsluitend via [LinkedIn](https://www.linkedin.com/in/pasperfection/) of via GitHub.**  
